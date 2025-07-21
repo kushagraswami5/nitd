@@ -49,6 +49,15 @@ export default function ResultPage() {
       { code: "CEBB 263", name: "Environmental Engineering-I", credit: 4, grade: "D" },
       { code: "CEBB 265", name: "Surveying", credit: 0, grade: "F" },
     ],
+   "Fifth Semester": [
+      { code: "CEL301", name: "Analysis of Indeterminate Structures", credit: 4, grade: "C" },
+      { code: "CEL302", name: "Liquid and Solid Waste Engineering", credit: 3, grade: "D" },
+      { code: "CEL303", name: "Open Channel Flow", credit: 3, grade: "D" },
+      { code: "CEL304", name: "Railways and Airport Engineering", credit: 3, grade: "C" },
+      { code: "CEB311", name: "Surveying-II", credit: 3, grade: "C" },
+      { code: "MAL359", name: "Mathematics for Engineers-II", credit: 3, grade: "D" },
+      { code: "CEP321", name: "Summer Training-I", credit: 1, grade: "B" }, // P for Pass
+],
   };
 
   return (
