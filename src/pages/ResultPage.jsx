@@ -65,7 +65,7 @@ export default function ResultPage() {
       { code: "CEL354", name: "Construction Technology and Project Management", credit: 3, grade: "B" },
       { code: "XXXXXX", name: "Open Elective-I", credit: 3, grade: "C" },
       { code: "HML359", name: "Economics for Engineers", credit: 3, grade: "B" },
-      { code: "CEP371", name: "Minor Project", credit: 2, grade: "P" },
+      { code: "CEP371", name: "Minor Project", credit: 2, grade: "B" },
 ],
 
   };
