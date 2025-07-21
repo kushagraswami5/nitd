@@ -58,6 +58,16 @@ export default function ResultPage() {
       { code: "MAL359", name: "Mathematics for Engineers-II", credit: 3, grade: "D" },
       { code: "CEP321", name: "Summer Training-I", credit: 1, grade: "B" }, // P for Pass
 ],
+   "Sixth Semester": [
+      { code: "CEL351", name: "Design of Steel Structures", credit: 3, grade: "B" },
+      { code: "CEL352", name: "Design of Advanced Concrete Structures", credit: 3, grade: "C" },
+      { code: "CEL353", name: "Foundation Engineering", credit: 3, grade: "C" },
+      { code: "CEL354", name: "Construction Technology and Project Management", credit: 3, grade: "B" },
+      { code: "XXXXXX", name: "Open Elective-I", credit: 3, grade: "C" },
+      { code: "HML359", name: "Economics for Engineers", credit: 3, grade: "B" },
+      { code: "CEP371", name: "Minor Project", credit: 2, grade: "P" },
+],
+
   };
 
   return (
